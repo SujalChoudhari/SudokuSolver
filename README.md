@@ -56,9 +56,3 @@ This app was created as a fun project to explore React and practice problem-solv
 ## Contact
 
 For any questions or feedback, feel free to reach out to me on GitHub: [@SujalChoudhari](https://github.com/SujalChoudhari)
-
-## License
-
-This project is not licensed.
-
-_Disclaimer: This README is a template and may need to be further customized based on your project's specific details and requirements._
